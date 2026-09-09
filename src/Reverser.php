@@ -19,6 +19,6 @@ class Reverser
             $reversed .= mb_substr($text, $i, 1, 'UTF-8');
         }
 
-        return $reversed . '_111';
+        return $reversed . '_222';
     }
 }
