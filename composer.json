@@ -1,0 +1,19 @@
+{
+    "name": "rpy/string-reverse",
+    "description": "Делаем реверс строки",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rpy\\StringReverser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rpy",
+            "email": "pasha-rogov@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
